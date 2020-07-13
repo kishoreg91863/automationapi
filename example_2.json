@@ -1,0 +1,15 @@
+[
+      {
+        "id": 10,
+        "name": "shirt",
+        "color": "red",
+        "price": "$123",
+	"host" : "tester1"
+      },
+      {
+        "id": 11,
+        "name": "coat",
+        "color": "black",
+        "price": "$2300"
+      }
+    ]
